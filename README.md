@@ -1,5 +1,6 @@
 # tkinter-pyserial-tool
 serial control tool by Python based on tkinter and pyserial
+[Watch the video](https://www.bilibili.com/video/av78238440)
 ## Project description
 This is a Python application,uesd for controlling serial comports
 ## Advantages
